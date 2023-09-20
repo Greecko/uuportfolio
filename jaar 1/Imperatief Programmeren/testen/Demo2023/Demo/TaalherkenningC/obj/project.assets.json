@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "6.3-LetterTellerC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/6.3-LetterTellerC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/6.3-LetterTellerC.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "6.3-LetterTellerC/1.0.0": {
+      "type": "project",
+      "path": "../LetterTellerC/6.3-LetterTellerC.csproj",
+      "msbuildProject": "../LetterTellerC/6.3-LetterTellerC.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "6.3-LetterTellerC >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\timen\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\timen\\Documents\\Projecten informatica\\jaar 1\\Imperatief Programmeren\\testen\\Demo2023\\Demo\\TaalherkenningC\\8.3-TaalherkenningC.csproj",
+      "projectName": "8.3-TaalherkenningC",
+      "projectPath": "C:\\Users\\timen\\Documents\\Projecten informatica\\jaar 1\\Imperatief Programmeren\\testen\\Demo2023\\Demo\\TaalherkenningC\\8.3-TaalherkenningC.csproj",
+      "packagesPath": "C:\\Users\\timen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\timen\\Documents\\Projecten informatica\\jaar 1\\Imperatief Programmeren\\testen\\Demo2023\\Demo\\TaalherkenningC\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\timen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {
+            "C:\\Users\\timen\\Documents\\Projecten informatica\\jaar 1\\Imperatief Programmeren\\testen\\Demo2023\\Demo\\LetterTellerC\\6.3-LetterTellerC.csproj": {
+              "projectPath": "C:\\Users\\timen\\Documents\\Projecten informatica\\jaar 1\\Imperatief Programmeren\\testen\\Demo2023\\Demo\\LetterTellerC\\6.3-LetterTellerC.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
