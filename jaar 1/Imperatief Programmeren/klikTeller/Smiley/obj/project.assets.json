@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timen\\Documents\\Projecten informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Smiley\\Smiley.csproj",
+      "projectUniqueName": "C:\\Projecten_informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Smiley\\Smiley.csproj",
       "projectName": "Smiley",
-      "projectPath": "C:\\Users\\timen\\Documents\\Projecten informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Smiley\\Smiley.csproj",
+      "projectPath": "C:\\Projecten_informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Smiley\\Smiley.csproj",
       "packagesPath": "C:\\Users\\timen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timen\\Documents\\Projecten informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Smiley\\obj\\",
+      "outputPath": "C:\\Projecten_informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Smiley\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\timen\\AppData\\Roaming\\NuGet\\NuGet.Config",

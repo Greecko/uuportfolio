@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timen\\Documents\\Projecten informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Checksum\\Checksum.csproj",
+      "projectUniqueName": "C:\\Projecten_informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Checksum\\Checksum.csproj",
       "projectName": "Checksum",
-      "projectPath": "C:\\Users\\timen\\Documents\\Projecten informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Checksum\\Checksum.csproj",
+      "projectPath": "C:\\Projecten_informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Checksum\\Checksum.csproj",
       "packagesPath": "C:\\Users\\timen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timen\\Documents\\Projecten informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Checksum\\obj\\",
+      "outputPath": "C:\\Projecten_informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Checksum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\timen\\AppData\\Roaming\\NuGet\\NuGet.Config",

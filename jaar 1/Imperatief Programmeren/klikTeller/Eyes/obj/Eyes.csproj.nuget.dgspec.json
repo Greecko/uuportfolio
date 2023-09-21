@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\timen\\Documents\\Projecten informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Eyes\\Eyes.csproj": {}
+    "C:\\Projecten_informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Eyes\\Eyes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\timen\\Documents\\Projecten informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Eyes\\Eyes.csproj": {
+    "C:\\Projecten_informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Eyes\\Eyes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\timen\\Documents\\Projecten informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Eyes\\Eyes.csproj",
+        "projectUniqueName": "C:\\Projecten_informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Eyes\\Eyes.csproj",
         "projectName": "Eyes",
-        "projectPath": "C:\\Users\\timen\\Documents\\Projecten informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Eyes\\Eyes.csproj",
+        "projectPath": "C:\\Projecten_informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Eyes\\Eyes.csproj",
         "packagesPath": "C:\\Users\\timen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\timen\\Documents\\Projecten informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Eyes\\obj\\",
+        "outputPath": "C:\\Projecten_informatica\\jaar 1\\Imperatief Programmeren\\klikTeller\\Eyes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\timen\\AppData\\Roaming\\NuGet\\NuGet.Config",
